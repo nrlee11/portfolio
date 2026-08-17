@@ -341,6 +341,9 @@ p {
 .bg-blue {
   background: linear-gradient(135deg, #1d4ed8, #60a5fa);
 }
+.bg-blue2 {
+  background: linear-gradient(135deg,#e4fdff, #39ade2);
+}
 .bg-purple {
   background: linear-gradient(135deg, #4c1d95, #a78bfa);
 }
